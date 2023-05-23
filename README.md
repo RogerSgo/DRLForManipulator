@@ -6,3 +6,4 @@ Software:
           - keras 2.11
           - Numpy 1.21.5
           - Tensorflow 2.11
+Demo video: Robot training - https://youtu.be/4M1eHd9K1vw
