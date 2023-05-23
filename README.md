@@ -6,6 +6,7 @@ This project is based on: https://github.com/Hazuwall/VisionBasedControl. The fi
 - Python 3.9.16
 - keras 2.11.
 - Numpy 1.21.5.
+- Matplotlib 0.1.6
 - Tensorflow 2.11.
 <h3> Media </h3>
 Demo video: Robot training - https://youtu.be/4M1eHd9K1vw
