@@ -1,5 +1,5 @@
-# DRLForManipulator
-This project is based on: https://github.com/Hazuwall/VisionBasedControl. The files were updated with the latest version of CoppeliaSim.
+<h1> DRLForManipulator </h1>
+<h2> This project is based on: https://github.com/Hazuwall/VisionBasedControl. The files were updated with the latest version of CoppeliaSim. </h2>
 Software:
           - CoppeliaSim 4.5.1 (March 29 2023)
           - Python 3.9.16
