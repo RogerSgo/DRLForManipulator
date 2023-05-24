@@ -10,3 +10,6 @@ This project is based on: https://github.com/Hazuwall/VisionBasedControl. The fi
 - Tensorflow 2.11.
 <h3> Media </h3>
 Demo video: Robot training - https://youtu.be/4M1eHd9K1vw
+<h3> Procedimiento </h3>
+- Entrenamiento: Abrir y ejecutar escena de Entrenamiento y archivo.ipynb de Entrenamiento
+- Evaluación:
