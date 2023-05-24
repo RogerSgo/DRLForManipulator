@@ -9,9 +9,9 @@ This project is based on: https://github.com/Hazuwall/VisionBasedControl. The fi
 * Matplotlib 0.1.6
 * Tensorflow 2.11
 <h3> Contenido </h3>
-- Escenas CoppeliaSim para Evaluacion y Entrenamiento.
+<p> - Escenas CoppeliaSim para Evaluacion y Entrenamiento.
 - Archivos .ipynb para Evaluacion y Entrenamiento.
-- Modelos entrenados con 100, 5000 y 10000 episodios.
+- Modelos entrenados con 100, 5000 y 10000 episodios. </p>
 <h3> Procedimiento </h3>
 - Entrenamiento: Abrir y ejecutar escena de Entrenamiento y archivo.ipynb de Entrenamiento
 - Evaluación: Abrir y ejecutar escena de Evaluación y archivo.ipynb de Evaluacion.
