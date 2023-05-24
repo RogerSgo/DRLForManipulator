@@ -2,12 +2,12 @@
 <h2> Description </h2>
 This project is based on: https://github.com/Hazuwall/VisionBasedControl. The files were updated with the latest version of CoppeliaSim.
 <h3> Software: </h3>
-Markup :- CoppeliaSim 4.5.1 (March 29 2023)
-        - Python 3.9.16
-- keras 2.11
-- Numpy 1.21.5
-- Matplotlib 0.1.6
-- Tensorflow 2.11
+* CoppeliaSim 4.5.1 (March 29 2023)
+* Python 3.9.16
+* keras 2.11
+* Numpy 1.21.5
+* Matplotlib 0.1.6
+* Tensorflow 2.11
 <h3> Contenido </h3>
 - Escenas CoppeliaSim para Evaluacion y Entrenamiento.
 - Archivos .ipynb para Evaluacion y Entrenamiento.
