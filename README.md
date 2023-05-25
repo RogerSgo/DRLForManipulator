@@ -1,5 +1,5 @@
 <h1> DRL For Manipulator in CoppeliaSim </h1>
-![s](https://github.com/RogerSgo/DRLForManipulator/blob/main/DRL-PosToOb/EscenasSim/escena.png)
+![imagen](DRL-PosToOb/EscenasSim/escena.png)
 <h2> Description </h2>
 This project is based on: https://github.com/Hazuwall/VisionBasedControl. The files were updated with the latest version of CoppeliaSim.
 <h3> Software: </h3>
