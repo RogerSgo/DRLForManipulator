@@ -2,19 +2,19 @@
 ![Alt text](https://github.com/RogerSgo/DRLForManipulator/blob/main/DRL-PosToOb/EscenasSim/escena.png)
 <h2> Description </h2>
 This project is based on: https://github.com/Hazuwall/VisionBasedControl. The files were updated with the latest version of CoppeliaSim.
-<h3> Software: </h3>
+<h2> Software: </h2>
 * CoppeliaSim 4.5.1 (March 29 2023)
 * Python 3.9.16
 * keras 2.11
 * Numpy 1.21.5
 * Matplotlib 0.1.6
 * Tensorflow 2.11
-<h3> Contenido </h3>
+<h2> Contenido </h2>
 1. Escenas CoppeliaSim para Evaluacion y Entrenamiento.
 2. Archivos .ipynb para Evaluacion y Entrenamiento.
 - Modelos entrenados con 100, 5000 y 10000 episodios.
-<h3> Procedimiento </h3>
+<h2> Procedimiento </h2>
 - Entrenamiento: Abrir y ejecutar escena de Entrenamiento y archivo.ipynb de Entrenamiento
 - Evaluación: Abrir y ejecutar escena de Evaluación y archivo.ipynb de Evaluacion.
-<h3> Media </h3>
+<h2> Media </h2>
 Demo video: Robot training - https://youtu.be/4M1eHd9K1vw
