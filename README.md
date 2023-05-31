@@ -18,3 +18,8 @@ This project is based on: https://github.com/Hazuwall/VisionBasedControl. The fi
 - Evaluación: Abrir y ejecutar escena de Evaluación y archivo.ipynb de Evaluacion.
 <h2> Media </h2>
 Demo video: Robot training - https://youtu.be/4M1eHd9K1vw
+
+- Esto es viñeta 1.
+  - Viñeta 1.1 con sangria.
+  - Viñeta N.
+  
