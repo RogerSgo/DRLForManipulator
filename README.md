@@ -5,10 +5,6 @@ This project is based on: https://github.com/Hazuwall/VisionBasedControl. The fi
 <h2> Software: </h2>
 
 - CoppeliaSim 4.5.1 (March 29 2023)
-  - Viñeta 1.1 con sangria.
-  - Viñeta N.
-  
-- CoppeliaSim 4.5.1 (March 29 2023)
 - Python 3.9.16
 - keras 2.11
 - Numpy 1.21.5
