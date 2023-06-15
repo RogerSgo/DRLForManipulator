@@ -10,6 +10,7 @@ This project is based on: https://github.com/Hazuwall/VisionBasedControl. The fi
 - Python 3.9.16
 - keras 2.11
 - Numpy 1.21.5
+- OpenCV 4.6
 - Matplotlib 0.1.6
 - Tensorflow 2.11
 <h2> Contenido </h2>
