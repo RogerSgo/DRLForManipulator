@@ -22,6 +22,8 @@ This project is based on: https://github.com/Hazuwall/VisionBasedControl. The fi
 
 - Entrenamiento: Abrir y ejecutar escena de Entrenamiento y archivo.ipynb de Entrenamiento
 - Evaluación: Abrir y ejecutar escena de Evaluación y archivo.ipynb de Evaluacion.
+<h2> Media </h2>
+
 Instalacion de Gymnasium
 ![Zona de trabajo](https://github.com/RogerSgo/DRLForManipulator/blob/main/DRL-PosToOb/EscenasSim/Imagen1.png)
 <h2> Media </h2>
